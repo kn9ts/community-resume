@@ -29,6 +29,8 @@ Created HTML5 starter kit for creating HTML5 application and user interfaces, wi
 integration for fast, clean and optimized app creation. Would serve the developer community to be able to come
 up to par with **GruntJS** intergration with their projects.
 
+---
+
 ## JavaScript is Back
 Held on: **March 21 · 2:00 PM**
 
@@ -37,6 +39,8 @@ Attendance: **30 Community Members**
 This was the 1st meetup this year, signifying the revival of the group. Members showed up and were to state what
 they would expect along the year in our meetups. They also stated their issues and restaints and also how we
 could come together to solve common issues and restaints among the members as the year grows old.
+
+---
 
 ## Web Application Development Workflow [GDG Meetup]
 Held on: **4th April, 2015**
@@ -55,6 +59,8 @@ Examples:
 - Task Automation
 - Introduction to Node.js
 - Introduction to transpilers eg. Babeljs
+
+---
 
 ## JavaScript, Warthogs and Friends, Ruby Conf KE
 Held on: **8th May 2015**
@@ -82,12 +88,16 @@ This entailed:
     - Versioning
     - Templating Systems
 
+---
+
 ## Shaping up with AngularJS
 Meetup held on: **May 2 · 1:30 PM**
 
 Attendance: **33**
 
 This was a workshop to help guys to learn how to build AngularJS powered applications by building your 1st AngularJS app also learning the fundermentals of Angular. AngularJS has a fair share of deep concepts; taking some time to understand them can get you back on track.
+
+---
 
 ## Start to Gulp boilerplate
 Link: [https://github.com/kn9ts/start-to-gulp](https://github.com/kn9ts/start-to-gulp)
@@ -96,6 +106,7 @@ Created and shared on: **Jul 24, 2015**
 
 A **GulpJS** alternative to the **GruntJS** Boilerplate I had created for those who would prefer **Gulp** rather than **GruntJS** which was percieved a bit harder
 
+---
 
 ## Frodo [Go Web Framework]
 
