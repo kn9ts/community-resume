@@ -23,7 +23,7 @@ Link: [http://nairobi-js.github.io](http://nairobi-js.github.io)
 ## Start to Grunt boilerplate
 [http://kn9ts.github.io/start-to-grunt/](http://kn9ts.github.io/start-to-grunt/)
 
-Created on: **Mar 22, 2015**
+Created on: **March 22nd, 2015**
 
 Created HTML5 starter kit for creating HTML5 application and user interfaces, with **GruntJS**
 integration for fast, clean and optimized app creation. Would serve the developer community to be able to come
@@ -49,16 +49,24 @@ Attendance: **25+**
 
 Link to [Powerpoint File](http://files.meetup.com/18467272/Web-workflow.pptx)
 
-This was a **joint GDG Meetup and JavaScript Community** to introduce guys into tools and concepts of JavaScript that one needs to know about to be a master Front End developer. Some of these tools would also go ahead and influence their skills as backend developers.
+This was a **joint GDG Meetup and JavaScript Community** to introduce guys into tools and concepts of JavaScript that one needs to know about to be a master Front End developer. Iterating faster, tackle bugs fast through tools, and improved automated testing are great ideas. Some of these tools would also go ahead and influence their skills as backend developers.
 
-Examples:
+This entailed:
 
-- Command line is king
-- Sublime Text IDE and use/installation of plugins
-- Git & Github
+- Love your command line/shell
+- Sublime Text IDE tips and tricks (installation and usage of plugins)
+- Git & Github, version control
 - Task Automation
-- Introduction to Node.js
-- Introduction to transpilers eg. Babeljs
+- Live reloading
+- CSS & JS Linting
+- Introduction Node.js & NPM
+- Introduction to bower
+- Introduction to:
+    - Precompiler
+    - Transpilers
+    - Packaging/Build tools
+- Static Deployers
+- Where to get started with JavaScript
 
 ---
 
@@ -100,9 +108,9 @@ This was a workshop to help guys to learn how to build AngularJS powered applica
 ---
 
 ## Start to Gulp boilerplate
-Link: [https://github.com/kn9ts/start-to-gulp](https://github.com/kn9ts/start-to-gulp)
-
 Created and shared on: **Jul 24, 2015**
+
+Link: [https://github.com/kn9ts/start-to-gulp](https://github.com/kn9ts/start-to-gulp)
 
 A **GulpJS** alternative to the **GruntJS** Boilerplate I had created for those who would prefer **Gulp** rather than **GruntJS** which was percieved a bit harder
 
@@ -110,6 +118,12 @@ A **GulpJS** alternative to the **GruntJS** Boilerplate I had created for those 
 
 ## Frodo [Go Web Framework]
 
+Started: **6th July, 2015**
+
 Link: [Frodo Github Repo](https://github.com/kn9ts/frodo)
 
 Frodo is a Go mini web framework inspired by the sweet/beautiful parts that make up Laravel(php), Slim (php) and ExpressJS(node.js). I have inspired a couple members of the community, and also inviting them to join and contribute what might be the 1st open source Go web app framework built in Africa.
+
+---
+
+**Note:** Looking forward to working more with Google Developer Group to demistify front-end development, tools or craftmanship as a whole...
