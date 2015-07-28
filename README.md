@@ -107,6 +107,19 @@ This was a workshop to help guys to learn how to build AngularJS powered applica
 
 ---
 
+## Created Nairobi JavaScript Community Slack Group
+Link: [https://nairobijs.slack.com/](https://nairobijs.slack.com/)
+
+Due to the whatsapp group limitation to 100 members we further decided a **Slack** group would serve as well as wanted all members to be able to share, communicate and fun together without the 100 members limitation imposed on whatsapp groups.
+
+This way could also seperate discussions into topics of interest. This would seperate noise from the important information that is shared where members desired to retain them. **64** members joined up within the 1st week. Currently at **104** members at the time of writting this.
+
+To make life easier for new members to join, I went ahead to automate the process using [slackin](http://rauchg.com/slackin/). Also shows how many users are online.
+
+Our link: [https://slack-nairobijs.herokuapp.com/](https://slack-nairobijs.herokuapp.com/)
+
+---
+
 ## Start to Gulp boilerplate
 Created and shared on: **Jul 24, 2015**
 
