@@ -28,7 +28,7 @@ The Nairobi JavaScript Community had been created, last year and had died down t
 It is now the most active community in the city if not in Kenya, and growing by the day. Other milestones achieved for the JavaScript Community are:
 
 #### Creation of a Whatsapp Group
-Currently at **95** members (threshold is 100 for whatsapp groups)
+Currently at **88** members (threshold is 100 for whatsapp groups)
 
 #### Meetup Group page & mailing list
 Link: [http://meetup.com/nairobi-js](http://meetup.com/nairobi-js)
@@ -52,7 +52,7 @@ up to par with **GruntJS** intergration with their projects.
 ---
 
 ## JavaScript is Back
-Held on: **March 21 · 2:00 PM**
+Held on: **March 21, 2015**
 
 Attendance: **30 Community Members**
 
@@ -119,7 +119,7 @@ This entailed:
 ---
 
 ## Shaping up with AngularJS
-Meetup held on: **May 2 · 1:30 PM**
+Meetup held on: **May 2, 2015**
 
 Attendance: **33**
 
@@ -132,7 +132,7 @@ Link: [https://nairobijs.slack.com/](https://nairobijs.slack.com/)
 
 Due to the whatsapp group limitation to 100 members we further decided a **Slack** group would serve as well as wanted all members to be able to share, communicate and fun together without the 100 members limitation imposed on whatsapp groups.
 
-This way could also seperate discussions into topics of interest. This would seperate noise from the important information that is shared where members desired to retain them. **64** members joined up within the 1st week. Currently at **104** members at the time of writting this.
+This way could also seperate discussions into topics of interest. This would seperate noise from the important information that is shared where members desired to retain them. **72** members joined up within the 1st week. Currently at **106** members at the time of writting this.
 
 To make life easier for new members to join, I went ahead to automate the process using [slackin](http://rauchg.com/slackin/). Also shows how many users are online.
 
@@ -146,7 +146,7 @@ Created: **June 12th, 2015**
 
 Link: [http://trippa.firebaseapp.com](http://trippa.firebaseapp.com)
 
-Created an Trippa, which is a **speed test typing** application that can be used by anyone other than the community to test and also practise to type fast.
+Created an **Trippa**, which is a **speed test typing** application that can be used by anyone other than the community to test and also practise to type fast.
 
 ---
 
