@@ -1,9 +1,13 @@
 # Community Resume for Eugene Mutai
 
 **Name:** Eugene Kiplagat Mutai
+
 **Google Plus** https://plus.google.com/+EugeneMutai
+
 **Twitter:** http://twitter.com/kn9ts
+
 **Email:** eugenemutai@gmail.com
+
 **Country:** Kenya
 
 ## PrittyNote [Social application, HTML5]
@@ -133,6 +137,16 @@ This way could also seperate discussions into topics of interest. This would sep
 To make life easier for new members to join, I went ahead to automate the process using [slackin](http://rauchg.com/slackin/). Also shows how many users are online.
 
 Our link: [https://slack-nairobijs.herokuapp.com/](https://slack-nairobijs.herokuapp.com/)
+
+---
+
+## Trippa [Speed Typing Test]
+
+Created: **June 12th, 2015**
+
+Link: [http://trippa.firebaseapp.com](http://trippa.firebaseapp.com)
+
+Created an Trippa, which is a **speed test typing** application that can be used by anyone other than the community to test and also practise to type fast.
 
 ---
 
