@@ -28,12 +28,12 @@ The Nairobi JavaScript Community had been created, last year and had died down t
 It is now the most active community in the city if not in Kenya, and growing by the day. Other milestones achieved for the JavaScript Community are:
 
 #### Creation of a Whatsapp Group
-Currently at **88** members (threshold is 100 for whatsapp groups)
+Currently at **94** (at the time of writting) members (threshold is 100 for whatsapp groups)
 
 #### Meetup Group page & mailing list
 Link: [http://meetup.com/nairobi-js](http://meetup.com/nairobi-js)
 
-Currently at **204** (at the time of writting) which would serve great in sharing updates to the community at large and also keep them updated on details and date of the next schedules meetups
+Currently at **210** (at the time of writting) which would serve great in sharing updates to the community at large and also keep them updated on details and date of the next schedules meetups
 
 #### Refurbishing of Nairobi JS Community Site
 Link: [http://nairobi-js.github.io](http://nairobi-js.github.io)
@@ -141,7 +141,6 @@ Our link: [https://slack-nairobijs.herokuapp.com/](https://slack-nairobijs.herok
 ---
 
 ## Trippa [Speed Typing Test]
-
 Created: **June 12th, 2015**
 
 Link: [http://trippa.firebaseapp.com](http://trippa.firebaseapp.com)
@@ -166,6 +165,25 @@ Started: **6th July, 2015**
 Link: [Frodo Github Repo](https://github.com/kn9ts/frodo)
 
 Frodo is a Go mini web framework inspired by the sweet/beautiful parts that make up Laravel(php), Slim (php) and ExpressJS(node.js). I have inspired a couple members of the community, and also inviting them to join and contribute what might be the 1st open source Go web app framework built in Africa.
+
+---
+
+## Nairobi JavaScript Barcamp
+Held on: **1st Aug, 2015**
+
+Attendance: **38**
+
+This is/was the meetup to get feedback, ideas, raise issues and complaints, and be solved as they are raised. This meetup would then depict the future of the community not only in our meetups but with ideas contributed by the community being implemented.
+
+A few of example of what to expect from the community as decided within the meetup:
+
+- nairobi javascript weekly podcast
+- github site to intergrate jekyll for blogging
+- personalised emails from domain name for the community
+- javascript/web technology outreach program to universities and colleges
+- a focus on specific web technologies such as angularjs, phonegap on their different platform impacts
+- our 1st community contributed/built tools (open source)
+- out own hacker news from [telescopeapp.com](telescopeapp.com) (for workshop request and opinionated voting)
 
 ---
 
