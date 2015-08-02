@@ -164,7 +164,9 @@ Started: **6th July, 2015**
 
 Link: [Frodo Github Repo](https://github.com/kn9ts/frodo)
 
-Frodo is a Go mini web framework inspired by the sweet/beautiful parts that make up Laravel(php), Slim (php) and ExpressJS(node.js). I have inspired a couple members of the community, and also inviting them to join and contribute what might be the 1st open source Go web app framework built in Africa.
+Documentation: [Frodo Godoc](http://godoc.org/github.com/kn9ts/frodo)
+
+Frodo is a Go mini web framework inspired by the sweet/beautiful parts that make up [Laravel](laravel.com)(php), [Slim](slimframework.com)(php) and [ExpressJS](http://expressjs.com/)(node.js), that are all generally inspired by [Sinatra](https://en.m.wikipedia.org/wiki/Sinatra_(software)). I am inspiring the current community to adapt Go as their daily go-to programming language as I am doing so, and also inviting them to join and contribute what might be the **1st Open Source** Go web app framework built in Africa.
 
 ---
 
@@ -183,6 +185,7 @@ A few of example of what to expect from the community as decided within the meet
 - javascript/web technology outreach program to universities and colleges
 - a focus on specific web technologies such as angularjs, phonegap on their different platform impacts
 - our 1st community contributed/built tools (open source)
+- come up with weekly javascript challenges
 - out own hacker news from [telescopeapp.com](telescopeapp.com) (for workshop request and opinionated voting)
 
 ---
