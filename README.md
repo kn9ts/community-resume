@@ -10,13 +10,15 @@
 
 **Country:** Kenya
 
+---
+
 ## Reason for applying
 I am forever passionate about programming, specifically on web technologies. One main reason that fuels this passion has forever changed my life since the day I chose this path and I want to share what passion does to you, how far it takes you, in viewing and tackling issues, seeing barriers as an advantage to learning new ways of forever overcoming lesser, greater or equal like barriers.
 
 Am also passionate about the community by understanding that one man alone can not create the future we seek. That unity is strength and divided we fall. That together we have the power to shape the technological future, for ourselves and the next of generations, and that this is a radial impact to us, and everyone around us. I also feel great mentoring/shaping the community, encouraging others to join, the journey, and helping them so that what I do trickles down from them to others and so forth.
 
 ## Relationship with Google
-Yes, with **GDG** leads and school ambassadors. The relationship is still young and in progress. Why I want to do this is to mentor, foster the growth of web technologies and help in demystifying it for all who love and are the enthusiast with web technologies yet have little or no exposure to it's development or existence over the decades it has been around. One reason for them being on the blind side is that the school's syllabus is old and broken, if I might say so, with nothing about web technologies or advancements.
+Yes, with **GDG** leads and school ambassadors. The relationship is still young and in progress. Why I want to do this is to mentor, foster the growth of web technologies and help in demystifying it for all who love and are the enthusiast with web technologies yet have little or no exposure to its development or existence over the decades it has been around. One reason for them being on the blind side is that the school's syllabus is old and broken, if I might say so, with nothing about web technologies or advancements.
 
 ---
 
@@ -53,9 +55,11 @@ Link: [http://nairobi-js.github.io](http://nairobi-js.github.io)
 ---
 
 ## Start to Grunt boilerplate
-[http://kn9ts.github.io/start-to-grunt/](http://kn9ts.github.io/start-to-grunt/)
-
 Created on: **March 22nd, 2015**
+
+Link: [http://kn9ts.github.io/start-to-grunt/](http://kn9ts.github.io/start-to-grunt/)
+
+Stars: **12**
 
 Created HTML5 starter kit for creating HTML5 application and user interfaces, with **GruntJS**
 integration for fast, clean and optimized app creation. Would serve the developer community to be able to come
@@ -65,6 +69,8 @@ up to par with **GruntJS** intergration with their projects.
 
 ## JavaScript is Back
 Held on: **March 21, 2015**
+
+Meetup Link: [http://www.meetup.com/nairobi-js/events/220823403/](http://www.meetup.com/nairobi-js/events/220823403/)
 
 Attendance: **30 Community Members**
 
@@ -79,7 +85,7 @@ Held on: **4th April, 2015**
 
 Attendance: **25+**
 
-Link to [Powerpoint File](http://files.meetup.com/18467272/Web-workflow.pptx)
+Here is the link to [Powerpoint File](http://files.meetup.com/18467272/Web-workflow.pptx)
 
 This was a **joint GDG Meetup and JavaScript Community** to introduce guys into tools and concepts of JavaScript that one needs to know about to be a master Front End developer. Iterating faster, tackle bugs fast through tools, and improved automated testing are great ideas. Some of these tools would also go ahead and influence their skills as backend developers.
 
@@ -131,7 +137,9 @@ This entailed:
 ---
 
 ## Shaping up with AngularJS
-Meetup held on: **May 2, 2015**
+Held on: **May 2, 2015**
+
+Meetup Link: [http://www.meetup.com/nairobi-js/events/221932763/](http://www.meetup.com/nairobi-js/events/221932763/)
 
 Attendance: **33**
 
@@ -140,6 +148,8 @@ This was a workshop to help guys to learn how to build AngularJS powered applica
 ---
 
 ## Created Nairobi JavaScript Community Slack Group
+Date Created: **3rd July, 2015**
+
 Link: [https://nairobijs.slack.com/](https://nairobijs.slack.com/)
 
 Due to the whatsapp group limitation to 100 members we further decided a **Slack** group would serve as well as wanted all members to be able to share, communicate and fun together without the 100 members limitation imposed on whatsapp groups.
@@ -155,7 +165,9 @@ Our link: [https://slack-nairobijs.herokuapp.com/](https://slack-nairobijs.herok
 ## Trippa [Speed Typing Test]
 Created: **June 12th, 2015**
 
-Link: [http://trippa.firebaseapp.com](http://trippa.firebaseapp.com)
+Link: [Trippa Github Repo](https://github.com/kn9ts/trippa)
+
+The application: [http://trippa.firebaseapp.com](http://trippa.firebaseapp.com)
 
 Created an **Trippa**, which is a **speed test typing** application that can be used by anyone other than the community to test and also practise to type fast.
 
@@ -171,10 +183,11 @@ A **GulpJS** alternative to the **GruntJS** Boilerplate I had created for those 
 ---
 
 ## Frodo [Go Web Framework]
-
 Started: **6th July, 2015**
 
 Link: [Frodo Github Repo](https://github.com/kn9ts/frodo)
+
+Stars: **7**
 
 Documentation: [Frodo Godoc](http://godoc.org/github.com/kn9ts/frodo)
 
@@ -184,6 +197,8 @@ Frodo is a Go mini web framework inspired by the sweet/beautiful parts that make
 
 ## Nairobi JavaScript Barcamp
 Held on: **1st Aug, 2015**
+
+Meetup Link: [http://www.meetup.com/nairobi-js/events/223984399/](http://www.meetup.com/nairobi-js/events/223984399/)
 
 Attendance: **38**
 
