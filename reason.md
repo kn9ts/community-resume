@@ -1,3 +1,12 @@
+---
+layout: page
+title: Reason
+header: Reason To Apply
+permalink: /reason/
+---
+
+---
+
 ## Reason for applying
 I am forever passionate about programming, specifically on web technologies. One main reason that fuels this passion has forever changed my life since the day I chose this path and I want to share what passion does to you, how far it takes you, in viewing and tackling issues, seeing barriers as an advantage to learning new ways of forever overcoming lesser, greater or equal like barriers.
 

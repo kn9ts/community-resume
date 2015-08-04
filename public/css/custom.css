@@ -1,0 +1,194 @@
+@import url(http://fonts.googleapis.com/css?family=Bigshot+One);
+@import url(http://fonts.googleapis.com/css?family=Carme);
+
+/**
+ * CSS STYLING FILE
+ * Created by Eugene Mutai
+ * Date: 27/04/2015
+ * Time: 09:04
+ * Description: Custom CSS of the application
+ * @import url(http://fonts.googleapis.com/css?family=Raleway:300,400,500);
+ */
+
+.red, .fa {
+    color: #da123a;
+}
+
+.red-bg {
+    background: #da123a;
+}
+
+.pale-grey-bg {
+    background: #ededed;
+}
+
+.small-padding {
+    padding: 0 .5em;
+}
+
+.text-muted {
+    color: #95a5a6;
+}
+
+body .page {
+    font-size: .8em;
+    cursor: default;
+    font-family: 'Carme', sans-serif;
+}
+
+.content a:link, .content a:visited{
+    color: #da123a !important;
+}
+
+.page h1.page-title ~ h1 {
+    color: #da123a !important;
+}
+
+.theme-base-08 .sidebar {
+    font-size: .8em;
+    /*background: #da123a;*/
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cc0000+0,cc0000+100;Red+Flat */
+    background: rgb(204, 0, 0);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(204, 0, 0, 1) 0%, rgba(204, 0, 0, 1) 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(204, 0, 0, 1)), color-stop(100%, rgba(204, 0, 0, 1)));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(204, 0, 0, 1) 0%, rgba(204, 0, 0, 1) 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(204, 0, 0, 1) 0%, rgba(204, 0, 0, 1) 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(204, 0, 0, 1) 0%, rgba(204, 0, 0, 1) 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, rgba(204, 0, 0, 1) 0%, rgba(204, 0, 0, 1) 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#cc0000', endColorstr='#cc0000', GradientType=0);
+    /* IE6-9 */
+}
+
+.theme-base-08 .sidebar .sidebar-nav {
+    font-size: 1.25em
+}
+
+h1,
+.sidebar-about h1 {
+    font-size: 3em !important;
+    font-family: 'Bigshot One', sans-serif;
+    letter-spacing: 5px;
+}
+
+h1 + h2 {
+    font-size: 2em;
+}
+
+.content h2 {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bolder;
+    /*text-decoration: underline;*/
+}
+
+pre {
+    margin: 5% 0;
+}
+
+code,
+pre,
+button,
+a.btn {
+    border-radius: 0;
+}
+
+button,
+a.btn {
+    font-size: 1.25em
+}
+
+blockquote {
+    color: #95a5a6;
+    background: #ecf0f1;
+    border-left-color: #e74c3c
+}
+
+.header {
+    background: #da123a;
+    background: -moz-linear-gradient(-45deg, #da123a 0%, #f7181c 100%);
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #da123a), color-stop(100%, #f7181c));
+    background: -webkit-linear-gradient(-45deg, #da123a 0%, #f7181c 100%);
+    background: -o-linear-gradient(-45deg, #da123a 0%, #f7181c 100%);
+    background: -ms-linear-gradient(-45deg, #da123a 0%, #f7181c 100%);
+    background: linear-gradient(135deg, #da123a 0%, #f7181c 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#da123a', endColorstr='#f7181c', GradientType=1);
+    /* IE6-9 fallback on horizontal gradient */
+    /*background-color: -webkit-linear-gradient(45deg, #da123a 10%, #d14233 90%);*/
+    /*background-color: linear-gradient(45deg, #da123a 10%, #d14233 90%);*/
+    /*overflow: hidden;*/
+    /*background-color: #da123a;*/
+}
+
+.header > .jumbotron {
+    background: url("../images/html5logos/black.png") no-repeat;
+    background-position: 140% 60%;
+    background-size: 60% auto;
+    padding-bottom: 7.5%;
+    margin-bottom: 0
+}
+
+.jumbotron a.btn {
+    margin: 0 1%;
+}
+
+.jumbotron a.btn i.fa {
+    padding-right: 5px;
+}
+
+.jumbotron a.btn:first-child {
+    margin: 0 0;
+}
+
+.container .space + a {
+    margin-left: 0
+}
+
+.sidebar ul li {
+    list-style-type: none;
+    list-style: none;
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: 'Bigshot One', sans-serif;
+}
+
+.sidebar ul li a {
+    color: #DA123A;
+    text-decoration: none;
+    padding: 5%;
+    display: block;
+}
+
+.sidebar ul li a:hover {
+    background: #DA123A;
+    color: white;
+    text-decoration: none;
+}
+
+.content,
+.content-fluid {
+    font-size: 1.5em !important;
+}
+
+.content h2,
+.content h3,
+.content h4,
+footer {
+    font-family: 'Carme', sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+}
