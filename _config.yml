@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
    <a href="https://twitter.com/kn9ts" target="_blank">@kn9ts</a><br/>Andela Fellow | iHub Consulting | Full-stack/M.E.A.N stack | Front-end | AngularJS | Obsessed Gopher | NairobiJS Community Lead #TIA
 
 baseurl: "/community-resume" # the subpath of your site, e.g. /blog/
-url: "kn9ts.github.io/community-resume/" # the base hostname & protocol for your site
+url: http://kn9ts.github.io/community-resume/ # the base hostname & protocol for your site
 
 # Build settings
 # markdown: redcarpet

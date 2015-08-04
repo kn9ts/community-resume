@@ -28,7 +28,7 @@ The Nairobi JavaScript Community had been created, last year and had died down t
 It is now the most active community in the city if not in Kenya, and growing by the day. Other milestones achieved for the JavaScript Community are:
 
 #### Creation of a Whatsapp Group
-Currently at **94** (at the time of writting) members (threshold is 100 for whatsapp groups)
+Currently at **94** (at the time of writing) members (threshold is 100 for whatsapp groups)
 
 #### Meetup Group page & mailing list
 Link: [http://meetup.com/nairobi-js](http://meetup.com/nairobi-js)
@@ -60,9 +60,9 @@ Meetup Link: [http://www.meetup.com/nairobi-js/events/220823403/](http://www.mee
 
 Attendance: **30 Community Members**
 
-This was the 1st meetup this year, signifying the revival of the group. Members showed up and were to state what
-they would expect along the year in our meetups. They also stated their issues and restaints and also how we
-could come together to solve common issues and restaints among the members as the year grows old.
+This was the 1st meet up this year, signifying the revival of the group. Members showed up and were to state what
+they would expect along the year in our meetups. They also stated their issues and restraints and also how we
+could come together to solve common issues and restraints among the members as the year grows old.
 
 ---
 
@@ -101,15 +101,15 @@ Attendance: **80+**
 
 Links to slide: [http://slides.com/eugenemutai/javascript-warthogs-and-friends](http://slides.com/eugenemutai/javascript-warthogs-and-friends)
 
-Gave a talk on the progress that JavaScript has made over the years since I began  developing (on 2012).
+Gave a talk on the progress that JavaScript has made over the years since I began developing (on 2012).
 
 This entailed:
 
 - The introduction to JavaScript
 - The current broad uses of JavaScript
 - How the web works
-- Demistifying **HTTP**
-- Demistifying **AJAX**
+- Demystifying **HTTP**
+- Demystifying **AJAX**
 - How **Ruby** can work with **JavaScript**
 - The Age of Tools:
     - Preprocessors and precompilers
@@ -127,9 +127,11 @@ Held on: **May 2, 2015**
 
 Meetup Link: [http://www.meetup.com/nairobi-js/events/221932763/](http://www.meetup.com/nairobi-js/events/221932763/)
 
+Barebone pepo link: [https://github.com/nairobijs/todomvc-app-template](https://github.com/nairobijs/todomvc-app-template)
+
 Attendance: **33**
 
-This was a workshop to help guys to learn how to build AngularJS powered applications by building your 1st AngularJS app also learning the fundermentals of Angular. AngularJS has a fair share of deep concepts; taking some time to understand them can get you back on track.
+This was a workshop to help guys to learn how to build AngularJS powered applications by building their 1st AngularJS app while also learning the fundermentals of AngularJS. AngularJS has a fair share of deep concepts; taking some time to understand them can get you back on track.
 
 ---
 
@@ -142,7 +144,7 @@ Due to the whatsapp group limitation to 100 members we further decided a **Slack
 
 This way could also seperate discussions into topics of interest. This would seperate noise from the important information that is shared where members desired to retain them. **72** members joined up within the 1st week. Currently at **106** members at the time of writting this.
 
-To make life easier for new members to join, I went ahead to automate the process using [slackin](http://rauchg.com/slackin/). Also shows how many users are online.
+To make life easier for new members to join, I went ahead to automate the process using **[slackin](http://rauchg.com/slackin/)**. Also shows how many users are online.
 
 Our link: [https://slack-nairobijs.herokuapp.com/](https://slack-nairobijs.herokuapp.com/)
 
@@ -155,7 +157,7 @@ Link: [Trippa Github Repo](https://github.com/kn9ts/trippa)
 
 The application: [http://trippa.firebaseapp.com](http://trippa.firebaseapp.com)
 
-Created an **Trippa**, which is a **speed test typing** application that can be used by anyone other than the community to test and also practise to type fast.
+**Trippa** is a **speed test typing** application that can be used by anyone other than the community to test their typing speed and also practise to type fast.
 
 ---
 
@@ -164,7 +166,7 @@ Created and shared on: **Jul 24, 2015**
 
 Link: [https://github.com/kn9ts/start-to-gulp](https://github.com/kn9ts/start-to-gulp)
 
-A **GulpJS** alternative to the **GruntJS** Boilerplate I had created for those who would prefer **Gulp** rather than **GruntJS** which was percieved a bit harder
+A **GulpJS** alternative to the **GruntJS** Boilerplate I had created for those who would prefer **Gulp** rather than **GruntJS** which was percieved a bit harder.
 
 ---
 
@@ -188,7 +190,7 @@ Meetup Link: [http://www.meetup.com/nairobi-js/events/223984399/](http://www.mee
 
 Attendance: **38**
 
-This is/was the meetup to get feedback, ideas, raise issues and complaints, and be solved as they are raised. This meetup would then depict the future of the community not only in our meetups but with ideas contributed by the community being implemented.
+This is/was the meetup to get feedback, ideas, raise issues, complaints, and be solved as they are raised. This meetup would then depict the future of the community not only in our meetups but with ideas contributed by the community being implemented.
 
 A few of example of what to expect from the community as decided within the meetup:
 
