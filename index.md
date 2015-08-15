@@ -28,12 +28,12 @@ The Nairobi JavaScript Community had been created, last year and had died down t
 It is now the most active community in the city if not in Kenya, and growing by the day. Other milestones achieved for the JavaScript Community are:
 
 #### Creation of a Whatsapp Group
-Currently at **94** (at the time of writing) members (threshold is 100 for whatsapp groups)
+Currently at **89** (at the time of writing) members (threshold is 100 for whatsapp groups)
 
 #### Meetup Group page & mailing list
 Link: [http://meetup.com/nairobi-js](http://meetup.com/nairobi-js)
 
-Currently at **210** (at the time of writting) which would serve great in sharing updates to the community at large and also keep them updated on details and date of the next schedules meetups
+Currently at **235** (updated 15/08/2015), with an increase of at-least 5 members weekly, which would serve great in sharing updates to the community at large and also keep them updated on details and date of the next schedules meetups.
 
 #### Refurbishing of Nairobi JS Community Site
 Link: [http://nairobi-js.github.io](http://nairobi-js.github.io)
@@ -142,11 +142,11 @@ Link: [https://nairobijs.slack.com/](https://nairobijs.slack.com/)
 
 Due to the whatsapp group limitation to 100 members we further decided a **Slack** group would serve as well as wanted all members to be able to share, communicate and fun together without the 100 members limitation imposed on whatsapp groups.
 
-This way could also seperate discussions into topics of interest. This would seperate noise from the important information that is shared where members desired to retain them. **72** members joined up within the 1st week. Currently at **106** members at the time of writting this.
+This way could also seperate discussions into topics of interest. This would seperate noise from the important information that is shared where members desired to retain them. **72** members joined up within the 1st week. Currently at **118** members (updated 15/08/2015).
 
 To make life easier for new members to join, I went ahead to automate the process using **[slackin](http://rauchg.com/slackin/)**. Also shows how many users are online.
 
-Our link: [https://slack-nairobijs.herokuapp.com/](https://slack-nairobijs.herokuapp.com/)
+Our link: [https://bit.ly/slack-js](https://slack-nairobijs.herokuapp.com/)
 
 ---
 
@@ -202,6 +202,15 @@ A few of example of what to expect from the community as decided within the meet
 - our 1st community contributed/built tools (open source)
 - come up with weekly javascript challenges
 - out own hacker news from [telescopeapp.com](telescopeapp.com) (for workshop request and opinionated voting)
+
+---
+
+## Interview on National TV
+Station: **NTV**, a *Local National Television Media*
+
+Aired on: **3rd August, 2015**
+
+Synopsis link: [https://youtu.be/ZvmIM1I6VHc](https://www.youtube.com/watch?v=ZvmIM1I6VHc)
 
 ---
 
