@@ -215,3 +215,19 @@ Synopsis link: [https://youtu.be/ZvmIM1I6VHc](https://www.youtube.com/watch?v=Zv
 ---
 
 **Note:** Looking forward to working more with Google Developer Group to demistify front-end development, tools or craftmanship as a whole...
+
+## “Why should you care about your craft?” (iHub Consulting intro to craftsmanship)
+Held on: **Aug 19, 2015**
+
+Attendance: **40 and above**
+
+Meetup Link: [http://www.meetup.com/nairobi-js/events/224554403/](http://www.meetup.com/nairobi-js/events/224554403/)
+
+There is a huge problem in our ecosystem with good software delivery. iHub Consulting has had experience developing software and after some failures and numerous successes we realised that the single, most critical factor that determines whether a project will fail or succeed is the people that make up the team.
+
+This was an introduction of the craftsmanship workshop themed: **“Why should you care about your craft?”**. iHub Consulting Craftsmanship training which will be starting in October of this year and will focus on the tools, methods and skills that software development professionals need.
+
+Read about it here: [http://www.ihub.co.ke/blogs/25436/introducing-the-craftsmanship-trainings](http://www.ihub.co.ke/blogs/25436/introducing-the-craftsmanship-trainings)
+
+---
+
