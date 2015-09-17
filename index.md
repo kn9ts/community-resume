@@ -231,3 +231,8 @@ Read about it here: [http://www.ihub.co.ke/blogs/25436/introducing-the-craftsman
 
 ---
 
+## Sepiarize Color Scheme (Sublime Text Syntax Theme)
+
+Installation Link: [https://packagecontrol.io/packages/Sepiarize%20Color%20Scheme](https://packagecontrol.io/packages/Sepiarize%20Color%20Scheme)
+
+An easy-on-the-eye SublimeText syntax theme inspired by Google Pocket's sepia reading theme
